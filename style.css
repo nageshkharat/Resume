@@ -1,0 +1,39 @@
+body {
+    background-color: #070905;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #resume {
+    width: 21cm;
+    height: 40 cm;
+    margin: 0 auto;
+    padding: 1cm;
+    background-color: #f0f0f0;
+  }
+  #header {
+    text-align: center;
+    margin-bottom: 0.5cm;
+  }
+  
+  #content h2 {
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+  }
+  
+  #content ul {
+    color: rgb(14, 14, 14);
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+  }
+  
+  #content li {
+    margin-bottom: 0.5cm;
+  }
+  
+  #content p {
+    margin-bottom: 0.5cm;
+  }
+  
+  
